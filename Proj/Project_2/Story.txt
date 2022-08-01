@@ -1,0 +1,44 @@
+====================================================================================================
+  ______   ________  ______   _______   __      __        __       __   ______   _______   ________ 
+ /      \ /        |/      \ /       \ /  \    /  |      /  \     /  | /      \ /       \ /        |
+/$$$$$$  |$$$$$$$$//$$$$$$  |$$$$$$$  |$$  \  /$$/       $$  \   /$$ |/$$$$$$  |$$$$$$$  |$$$$$$$$/ 
+$$ \__$$/    $$ |  $$ |  $$ |$$ |__$$ | $$  \/$$/        $$$  \ /$$$ |$$ |  $$ |$$ |  $$ |$$ |__    
+$$      \    $$ |  $$ |  $$ |$$    $$<   $$  $$/         $$$$  /$$$$ |$$ |  $$ |$$ |  $$ |$$    |   
+ $$$$$$  |   $$ |  $$ |  $$ |$$$$$$$  |   $$$$/          $$ $$ $$/$$ |$$ |  $$ |$$ |  $$ |$$$$$/    
+/  \__$$ |   $$ |  $$ \__$$ |$$ |  $$ |    $$ |          $$ |$$$/ $$ |$$ \__$$ |$$ |__$$ |$$ |_____ 
+$$    $$/    $$ |  $$    $$/ $$ |  $$ |    $$ |          $$ | $/  $$ |$$    $$/ $$    $$/ $$       |
+ $$$$$$/     $$/    $$$$$$/  $$/   $$/     $$/           $$/      $$/  $$$$$$/  $$$$$$$/  $$$$$$$$/   
+                                                                                                 
+=====================================================================================================
+                                                                                                    
+BACKSTORY
+	It has been a long last three years. Your father died three years ago due to an unknown virus. Your mother has fallen ill, and has been bed ridden for the last year.
+She currently resides in the town hospital, but doctors have started to worry. They have stated that the illness has suddenly become more active, and things are starting to look grim 
+for your mother. The doctor says that the hospital that houses her does not have the medical supplies to treat her illness. The doctor tells you that the hospital in the big city 
+nearby can treat her illness, and possible cure her. The one caveat is that the bill for the medical treatment from that hospital is a $1000. Due to your mother illness you have 
+barely been able to scrape on by with the money you earn from your full time CODING job. After hearing the information about the big city hospital you immediately head to your 
+nearest bank. You ask for a $1000 loan from the bank, and eventually with a lot of hassle you were able to secure a $1000 loan. The Bank gave a list of responsibilities you have, 
+due to you taking out a loan through them.
+
+ _      _____  _____  _   _     ___    _____  _     _         ___    _   _  _____ 
+( )    (  _  )(  _  )( ) ( )   (  _`\ (  _  )( )   ( )/'\_/`\(  _`\ ( ) ( )(_   _)
+| |    | ( ) || (_) || `\| |   | |_) )| (_) |`\`\_/'/'|     || (_(_)| `\| |  | |  
+| |  _ | | | ||  _  || , ` |   | ,__/'|  _  |  `\ /'  | (_) ||  _)_ | , ` |  | |  
+| |_( )| (_) || | | || |`\ |   | |    | | | |   | |   | | | || (_( )| |`\ |  | |  
+(____/'(_____)(_) (_)(_) (_)   (_)    (_) (_)   (_)   (_) (_)(____/'(_) (_)  (_)  
+================================================================================
+LOAN = $1000                                                                                  
+1. Must Pay loan back in full
+2. A Compound Interest of 1% is charged per turn (MORE ON THAT LATER).
+3. Loan must be paid back before you can pay for your mom's bills. 
+
+With that $1000 you have come up with a great idea. Ever since you were a kid you have been good at street craps. You have decided to take your skills to the local casino with a $1000
+in hand. After every round of gambling a compound interest of 1% is charged on the loan. With your mothers life on the line you strategize a way to save the day.  
+
+   _   _   _   _   _   _   _   _   _   _  
+  / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
+ ( O | B | J | E | C | T | I | V | E | S )
+  \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/                                                                                   
+===========================================     
+1. PAY the loan in full (loan amount + interest) to the bank before paying for mother's bills.                                                                             
+2. SAVE your mother by coming up with enough money to pay for her hospital expenses.                                                                                  
